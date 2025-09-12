@@ -1,4 +1,4 @@
-# 📊 Fundamentals-of-Numerical-Simulation-in-Physics
+# 📊 Fundamentals-of-Numerical-Simulation
 
 This repository contains my projects from "Fundamentals of Numerical Simulation in Physics" course, showcasing numerical methods for physical problems.
 
